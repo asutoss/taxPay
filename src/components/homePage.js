@@ -5,7 +5,7 @@ const HomePage = () => {
     return (
         <div>
             <h1>Central Authority of India</h1>
-            <Link to='/pay'><button>Pay Tax</button></Link>
+            <Link to='/login'><button>Pay Tax</button></Link>
             <Link to='/projects'><button>View Projects</button></Link>
             
         </div>
